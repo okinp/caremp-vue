@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "caremp.vue",
+               "sha256_cert_fingerprints": ["CE:1F:FB:B0:FC:F4:43:2C:51:CA:CF:EB:98:83:17:E6:24:4E:90:41:AB:36:5A:29:39:32:D8:89:D9:3F:B4:E0"] }
+}]

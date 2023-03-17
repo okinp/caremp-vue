@@ -1,0 +1,6 @@
+{
+  "appId": "caremp.vue",
+  "appName": "caremp-vue",
+  "webDir": ".output/public",
+  "bundledWebRuntime": false
+}

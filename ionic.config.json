@@ -1,0 +1,7 @@
+{
+  "name": "caremp-vue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
